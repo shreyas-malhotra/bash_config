@@ -12,9 +12,9 @@ cd bash_config
 ```
 **3. Provide Execution Permissions:**
 ```bash
-chmod +x install.sh
+chmod +x bash_config.sh
 ```
 **4. Run the Script:**
 ```bash
-./install.sh
+./bash_config.sh
 ```
