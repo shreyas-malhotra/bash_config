@@ -1,5 +1,5 @@
 # bash_config
-A straightforward script designed to replicate my terminal configuration on any given Linux system that uses Bash as its shell. The script is somewhat risky by design.
+A straightforward script designed to replicate my terminal configuration on any given Linux system that uses Bash as its shell.
 
 ## Installation
 **1. Clone the Repository:**
